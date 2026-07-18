@@ -37,6 +37,12 @@ Continue work from the current architecture state.
 
 ## Important Principles
 
+The repository stores architectural knowledge.
+
+The GitHub Architecture Workspace manages the work required to create and evolve that knowledge.
+
+Both should be treated as complementary sources throughout the architecture lifecycle.
+
 Do not redesign previously established architecture without a compelling reason.
 
 Preserve continuity of thought.

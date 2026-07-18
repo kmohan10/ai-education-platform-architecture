@@ -46,6 +46,20 @@ Architecture Foundation
 
 ---
 
+## Active Architecture Work
+
+The current architecture work items are tracked in the GitHub Project:
+
+AI Education Platform – Architecture Workspace
+
+This workspace reflects the active drafting, review and implementation status of architecture activities.
+
+Project State summarizes the results.
+
+The Workspace manages the work.
+
+---
+
 ## Major Milestones Completed
 
 •
@@ -151,3 +165,31 @@ based upon the current work.
 | 0.1 | SESSION-0001 | Initial project state established. |
 | 0.2 | SESSION-0002 | Product Constitution completed. |
 | 0.3 | SESSION-0003 | Product Positioning refined. |
+
+## Active Architecture Workspace
+
+GitHub Project:
+AI Education Platform – Architecture Workspace
+
+### Discovery
+
+None
+
+### Drafting
+
+- Finalize SESSION-0001 Product Discovery
+- Create 000_Architecture_Charter.md
+- Create 001_Project_State.md
+- Create Open Architecture Questions Register
+
+### Architecture Review
+
+None
+
+### Architecture Complete
+
+None
+
+### Implementation Complete
+
+None
