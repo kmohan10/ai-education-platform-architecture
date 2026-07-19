@@ -1,3 +1,9 @@
+This Charter defines the principles, governance, and organizational model for architectural knowledge within the AI Education Platform Architecture Repository.
+
+It establishes the enduring rules by which architectural knowledge is created, reviewed, approved, maintained, and evolved.
+
+All architectural artifacts within the repository are governed by this Charter.
+
 # 1. Purpose of the Repository
 
 The AI Education Platform Architecture Repository is the authoritative knowledge base for the long-term architecture of the AI Education Platform.
@@ -38,7 +44,7 @@ This Charter does not govern implementation activities, project management, rele
 
 ### 3.1 Knowledge Before Implementation
 
-Durable architectural knowledge shall be established before implementation begins. Implementation is expected to realize the architecture, while implementation experience may subsequently refine it through the established governance process.`
+Durable architectural knowledge shall be established before implementation begins. Implementation is expected to realize the architecture, while implementation experience may subsequently refine it through the established governance process.
 
 ### 3.2 Governance Before Architecture
 
@@ -72,7 +78,7 @@ Architecture is expected to evolve through implementation experience. Learning f
 
 Architectural knowledge is organized into domains according to its purpose rather than its document type or repository location. Each domain represents a distinct area of architectural responsibility with clearly defined objectives and boundaries.
 
-Knowledge domains provide the primary organizational model for the repository. Repository folders, documents, and artifacts are implementations of these domains rather than the domains themselves.
+Knowledge domains provide the primary organizational model for the repository. The repository organization is an implementation of these Knowledge Domains rather than the Knowledge Domains themselves.
 
 Every architecture artifact shall belong to one primary knowledge domain. Where an artifact references concepts from another domain, it shall reference rather than duplicate that knowledge.
 
@@ -341,7 +347,7 @@ Responsibilities:
 - Guide long-term evolution.
 - Approve architectural decisions.
 
-**Architecture Constributors**
+**Architecture Contributors**
 Responsibilities:
 
 - Propose architectural ideas.

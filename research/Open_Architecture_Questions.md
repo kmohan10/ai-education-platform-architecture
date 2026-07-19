@@ -56,16 +56,18 @@ Referenced by Architecture Specification and/or ADR
 | ID | Question | Origin | Priority | Status | Target Document |
 |----|----------|--------|----------|--------|-----------------|
 | AQ-0001 | What should be the complete Educational Knowledge Model? | SESSION-0001 | High | Open | Educational Knowledge Model |
-| AQ-0002 | How should Teaching DNA be represented and evolved? | SESSION-0001 | High | Open | Product Constitution |
+| AQ-0002 | What is the conceptual model for Teaching DNA, and how should it evolve over time? | SESSION-0001 | High | Open | Product Constitution |
 | AQ-0003 | How should the Instruction Compiler remain independent of AI providers? | SESSION-0001 | High | Open | Instruction Model |
-| AQ-0004 | What specialized AI Architects and Builders are required? | SESSION-0001 | Medium | Open | AI Agent Architecture |
-| AQ-0005 | What governance methodology should be adopted for architecture artifacts? | SESSION-0001 | Medium | Open | Architecture Governance |
+| AQ-0004 | What specialized AI governance agents are required to support the architecture knowledge lifecycle? | SESSION-0001 | High | Open | AI Agent Architecture |
+| AQ-0006 | What knowledge model best supports AI-native architecture governance? | SESSION-0001 | Medium | Open | Future Architecture / AI_Native_Governance_System.md |
 
 ---
 
 ## Resolved Questions
 
-_None_
+| ID | Question | Origin | Priority | Status | Target Document | Resolved By |
+|----|----------|--------|----------|--------|-----------------| ----------|
+| AQ-0005 | What governance methodology should be adopted for architecture artifacts? | SESSION-0001 | Medium | Resolved | Architecture Governance | 000_Architecture_Charter.md |
 
 ---
 
