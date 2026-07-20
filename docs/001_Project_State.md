@@ -1,3 +1,9 @@
+**Maintenance Policy**
+
+This document is the authoritative operational summary of the repository and is updated at the conclusion of every significant architecture session.
+
+Repository navigation documents (README.md and START_HERE.md) are updated only when repository organization, governance methodology, or onboarding guidance changes.
+
 # Project State
 
 ## Document Information
@@ -10,24 +16,21 @@ The AI Education Platform Architecture Repository preserves the architectural kn
 
 The Governance Foundation has been completed and approved.
 
-Current work has transitioned into the Product Strategy phase, beginning with the Product Constitution.
+Product Strategy is now underway with the completion of the Product Constitution, establishing the philosophical foundation for all subsequent platform architecture.
 
-The GitHub Workspace tracks active architectural work while this document summarizes the current state of the architecture.
+The GitHub Architecture Workspace manages active architectural work, while this document summarizes the current architectural state of the repository.
 
 ---
 
 ## Architecture Maturity
 
-Governance          ██████████ 100%
-
-Product Strategy    █░░░░░░░░░ 10%
-
-Platform Architecture░░░░░░░░░░ 0%
-
-Research            ██░░░░░░░░ 20%
-
-Implementation      ░░░░░░░░░░ 0%
--
+| Knowledge Domain | Status |
+|------------------|--------|
+| Governance | Complete |
+| Product Strategy | In Progress |
+| Platform Architecture | Not Started |
+| Research | In Progress |
+| Implementation | Not Started |
 
 ---
 
@@ -37,7 +40,7 @@ Current Phase:  Product Strategy
 
 Current Milestone:  Product Strategy Foundation
 
-Current Artifact:  Product Constitution
+Current Artifact:  Product Lexicon
 
 ---
 
@@ -59,17 +62,32 @@ Explains:
 
 ## Active Architecture Workspace
 
-Current snapshot
-
 Discovery
+
+- (empty)
 
 Drafting
 
+- Create Product Lexicon
+- Create Product Vision
+- Create Product Positioning
+
 Architecture Review
+
+- (empty)
 
 Architecture Complete
 
+- Finalize SESSION-0001 Product Discovery
+- Create 000_Architecture_Charter.md
+- Create 001_Project_State.md
+- Create Open Architecture Questions Register
+- Architecture Review 0
+- Create Product Constitution
+
 Implementation Complete
+
+- (empty)
 
 ---
 
@@ -80,31 +98,54 @@ Implementation Complete
 The Architecture Charter has been completed, establishing the repository's constitutional framework for the creation, governance, evolution, and maintenance of architectural knowledge.
 
 This milestone marks the completion of the repository's governance foundation. All subsequent Product Strategy, Platform Architecture, and Research artifacts shall be governed by this framework
+
+### 19-Jul-2026 — Architecture Review 0 Approved
+
+The Governance Foundation underwent its first formal architecture review. The review concluded that the governance methodology, repository organization, and supporting artifacts are internally consistent and suitable for governing subsequent architecture work. No architectural changes were required prior to approval.
+
+### 19-Jul-2026 — Product Constitution Established
+
+The Product Constitution has been completed, establishing the philosophical foundation of the AI Education Platform.
+
+The Constitution defines the platform's purpose, fundamental beliefs, the role of the platform, the role of artificial intelligence, and the non-negotiable principles that govern all subsequent product strategy, platform architecture, and implementation decisions.
+
+This milestone marks the beginning of the Product Strategy knowledge domain.
+
+### 21-Jul-2026 — Foundational Research Program Initiated
+
+The repository established its first foundational research program exploring the mechanisms of human learning through Cognitive Reorganization. Three complementary artifacts were created:
+
+SESSION-0002 – Cognitive Reorganization
+Evolution of Cognitive Reorganization
+Foundations of Cognitive Reorganization
+
+This research is expected to inform the Educational Knowledge Model, Teaching DNA, Instruction Model, AI Agent Architecture, and future Instructional Intelligence Platform.
+
 ---
 
 ## Current Focus
 
-Complete the Product Strategy foundation by developing:
+Develop the Product Strategy knowledge domain by establishing:
 
-- Product Constitution
 - Product Lexicon
 - Product Vision
 - Product Positioning
 
-These artifacts establish the philosophical and strategic direction for the AI Education Platform before detailed platform architecture begins
+These artifacts will refine the language, direction, and market identity of the AI Education Platform before detailed platform architecture begins
 ---
 
 ## Completed Deliverables
 
-Governance
+### Governance
 
-✓ Architecture Charter
+- Architecture Charter
+- Project State
+- Open Architecture Questions
+- Architecture Review 0
 
-✓ Project State
+### Product Strategy
 
-✓ Open Questions
-
-✓ Workspace
+- Product Constitution
 
 Research
 
@@ -112,6 +153,10 @@ Research
 ---
 
 ## Active Deliverables
+
+- Product Lexicon
+- Product Vision
+- Product Positioning
 
 ---
 
@@ -141,37 +186,36 @@ Research
 
 ## Repository Status
 
-Governance:  Healthy
+| Area | Status |
+|------|--------|
+| Governance | Healthy |
+| Product Strategy | In Progress |
+| Workspace Alignment | Current |
+| Repository Consistency | Healthy |
+| Architecture Reviews | Current |
 
-Knowledge Domains:  Stable
-
-Architecture Reviews:  Current
-
-Workspace Alignment:  Current
-
-Repository Consistency: Healthy
 ---
 
 ## Immediate Next Steps
+
+1. Complete the Product Lexicon.
+2. Develop the Product Vision.
+3. Develop the Product Positioning.
+4. Perform Architecture Review 1 for the Product Strategy layer.
+5. Begin Platform Architecture.
 
 ---
 
 ## Reading Recommendations
 
-For Product Strategy
+To begin contributing to the Product Strategy phase, read the following documents in order:
 
-Read:
-
-Product Constitution
-
-Architecture Charter
-
-SESSION-0001
-
-For Platform Architecture
-
-Read:
-
+1. START_HERE.md
+2. 000_Architecture_Charter.md
+3. 001_Project_State.md
+4. 002_Product_Constitution.md
+5. Referenced Session Records
+6. Active Architecture Workspace
 
 ---
 
