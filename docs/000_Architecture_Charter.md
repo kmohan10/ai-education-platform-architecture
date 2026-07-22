@@ -74,6 +74,26 @@ The methodology defined by this repository shall remain independent of specific 
 
 Architecture is expected to evolve through implementation experience. Learning from implementation shall enter the repository only through the established governance and review process, ensuring that architectural integrity is preserved while enabling continuous improvement.
 
+### 3.9 Canonical Semantic Model
+
+The platform shall be architected around a single canonical semantic model consisting of governed concepts (Nodes) and governed relationships (Edges).
+
+The canonical semantic model serves as the authoritative semantic foundation for all architectural models, instructional knowledge, reasoning systems, AI agents, knowledge stores, and implementation artifacts.
+
+All architecture artifacts shall derive their semantic structure from this canonical model rather than introducing independent semantic representations.
+
+The canonical semantic model is implementation-independent. Knowledge graph technologies may be used to realize this model but shall not define it.
+
+### 3.10 Semantic Before Dynamic
+
+Concepts and relationships shall be defined semantically before their behavioral interactions are modeled.
+
+The Product Lexicon defines the meaning of Concepts and Relationships.
+
+Behavioral models such as the Educational Concept Model define how those Concepts interact.
+
+This separation preserves semantic consistency while allowing behavioral models to evolve independently.
+
 # 4. Knowledge Domains
 
 Architectural knowledge is organized into domains according to its purpose rather than its document type or repository location. Each domain represents a distinct area of architectural responsibility with clearly defined objectives and boundaries.
@@ -435,6 +455,8 @@ Consistency activities include, but are not limited to:
 - Verifying cross-references and traceability
 - Identifying obsolete or superseded content
 - Ensuring each architectural concept has a single authoritative home
+- Maintaining a governed Concept Catalog (canonical Nodes)
+- Maintaining a governed Relationship Catalog (canonical Edges)
 
 Repository consistency shall be evaluated periodically through Repository Consistency Reviews and Architecture Refactoring activities.
 
@@ -587,3 +609,15 @@ Constructive disagreement is encouraged when supported by sound architectural re
 Architecture discussions should preserve alternative viewpoints, assumptions, and trade-offs before converging on a decision.
 
 Architectural knowledge becomes authoritative only through the established governance process.
+
+Semantic Consistency
+
+Contributors shall use concepts and relationships defined in the Product Lexicon.
+
+Introduction of new canonical concepts or relationship types shall occur only through the Product Lexicon governance process.
+
+Behavioral models may instantiate governed relationships but shall not define new relationship semantics.
+
+All changes to the Architecture Knowledge Base (AKB) shall proceed through the established governance process.
+
+This includes, but is not limited to, changes to canonical concepts, relationship definitions, architectural models, governance artifacts, research artifacts, and any other authoritative architectural knowledge.

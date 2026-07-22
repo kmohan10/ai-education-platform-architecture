@@ -1,6 +1,10 @@
+# 0. Preamble
+
+The Constitution defines the enduring beliefs and principles that govern the AI Education Platform. It establishes what the platform exists to achieve and why those goals matter. It intentionally does not prescribe how those beliefs are realized. The realization of these principles is the responsibility of the Product Strategy, Educational Models, and Platform Architecture artifacts.
+
 # 1. Product Purpose
 
-The AI Education Platform exists to advance human learning through the intentional design of instructional experiences that facilitate meaningful cognitive transformation.
+The AI Education Platform exists to advance human learning through the intentional design of Learning Conditions that increase the probability of meaningful cognitive transformation.
 
 The platform preserves, develops, and continuously improves instructional intelligence so that every learner can receive learning experiences that are adaptive, effective, and grounded in sound educational principles.
 
@@ -14,11 +18,11 @@ The AI Education Platform is founded upon the following fundamental beliefs. The
 
 ### Belief 1
 
-Education is the intentional transformation of a learner's cognitive framework.
+Education is the intentional design of Learning Conditions that increase the probability of meaningful cognitive transformation.
 
 ### Belief 2
 
-The purpose of instruction is to create cognitive experiences that facilitate meaningful cognitive transformation.
+The purpose of instruction is to design and orchestrate Learning Conditions that facilitate meaningful cognitive transformation.
 
 ### Belief 3
 
@@ -26,7 +30,7 @@ Human learning is the central purpose of the platform.
 
 ### Belief 4
 
-Artificial intelligence exists to enhance instructional capability in service of meaningful human cognitive transformation.
+Artificial intelligence exists to enhance instructional intelligence in service of meaningful human cognitive transformation.
 
 # 3. Role of the Platform
 
@@ -36,6 +40,7 @@ The platform exists to cultivate instructional intelligence in service of human 
 
 Responsibilities:
 
+- Design, evaluate, and continuously improve Learning Conditions that maximize the probability of meaningful cognitive transformation.
 - Facilitate meaningful cognitive transformation rather than information transmission.
 - Preserve and continuously evolve instructional intelligence.
 - Represent effective teaching as enduring platform knowledge.
@@ -61,7 +66,7 @@ Artificial intelligence shall continuously develop its instructional capabilitie
 It shall:
 
 - Understand the learner's current cognitive framework.
-- Design and adapt cognitive experiences.
+- Design, adapt, and optimize Learning Conditions.
 - Personalize instruction.
 - Provide timely feedback and coaching.
 - Learn from instructional outcomes.
@@ -166,3 +171,7 @@ The platform shall continuously improve its instructional intelligence through e
 **NP-8: Constitutional Integrity**
 
 All future product strategy, platform architecture, and implementation decisions shall remain consistent with the beliefs and principles defined in this Constitution.
+
+**NP-9: Learning Conditions**
+
+The platform shall optimize the design of Learning Conditions rather than attempting to replace the learner's cognitive processes. Every instructional intervention should improve the conditions under which meaningful cognitive transformation is most likely to occur.
