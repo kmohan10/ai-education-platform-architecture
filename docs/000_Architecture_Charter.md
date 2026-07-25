@@ -1,26 +1,181 @@
-This Charter defines the principles, governance, and organizational model for architectural knowledge within the AI Education Platform Architecture Repository.
+000_Architecture_Charter
 
-It establishes the enduring rules by which architectural knowledge is created, reviewed, approved, maintained, and evolved.
+Introduction
 
-All architectural artifacts within the repository are governed by this Charter.
+1. Purpose of this Charter
 
-# 1. Purpose of the Repository
+2. Institutional Knowledge Methodology
+   2.1 Purpose
+   2.2 Constitutional Transformation
+   2.3 Constitutional Responsibilities
+   2.4 Constitutional Principles
+
+3. Repository Purpose
+
+4. Scope
+
+5. Architectural Operating Principles
+
+6. Knowledge Domains
+
+7. Knowledge Lifecycle
+
+8. Architectural Knowledge Governance
+
+9. Repository Organization
+
+10. Reading Order
+
+11. Architecture Maintenance
+
+12. Document Relationships
+
+13. Document Information
+
+14. Versioning Philosophy
+
+15. Collaboration Principles
+
+# 1. Purpose this Charter
+
+This Charter establishes the constitutional foundation for governing architectural knowledge within the AI Education Platform Architecture Repository. It defines the methodology, principles, governance, and organizational model through which institutional knowledge is created, preserved, reviewed, and evolved.
+
+# 2. Institutional Knowledge Methodology
+
+The Institutional Knowledge Methodology establishes the constitutional philosophy through which institutional knowledge is governed, represented, evolved, and operationalized within the AI Education Platform Architecture Repository. The remainder of this Charter defines how that methodology is applied to the organization, governance, and maintenance of the repository.
+
+### 2.1. Purpose
+
+This repository is organised as an Institutional Knowledge Architecture rather than a collection of design documents.
+
+Its purpose is to preserve, govern, and evolve institutional knowledge independently of any particular implementation, technology, or generation of architects.
+
+Every architectural artifact exists to answer one class of constitutional questions. Together, they establish a methodology through which institutional knowledge becomes governed reasoning while preserving semantic integrity, constitutional authority, and architectural consistency.
+
+### 2.2. The Constitutional Transformation
+
+Purpose
+        ↓
+Authority
+        ↓
+Meaning
+        ↓
+Canonical Representation
+        ↓
+Institutional Knowledge
+        ↓
+Reasoning
+        ↓
+Operationalization
+        ↓
+Constitutional Participation
+
+This progression represents a constitutional transformation, not a software architecture.
+
+Each stage introduces a distinct constitutional responsibility while inheriting the authority established by the stages above it.
+
+Lower stages operationalize higher stages.
+
+They do not redefine them.
+
+### 2.3. Constitutional Responsibilities
+
+| Stage                            | Constitutional Question                                                                            |
+| -------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Purpose**                      | Why does the institution exist and what principles govern it?                                      |
+| **Authority**                    | Who possesses legitimate authority to make architectural decisions?                                |
+| **Meaning**                      | What concepts and relationships are institutionally recognised?                                    |
+| **Canonical Representation**     | How is governed meaning represented, identified, versioned, and preserved?                         |
+| **Institutional Knowledge**      | How does governed representation become reusable institutional knowledge?                          |
+| **Reasoning**                    | Given institutional knowledge, what conclusions legitimately follow?                               |
+| **Operationalization**           | How is governed reasoning realised through platform capabilities and implementations?              |
+| **Constitutional Participation** | How do humans, AI agents, and future systems participate within the same constitutional framework? |
+
+Each stage answers a different class of architectural questions.
+
+No stage reopens constitutional decisions established above it.
+
+### 2.4 Governing Principles
+
+The methodology is founded on a small number of constitutional principles that govern the evolution of the repository.
+
+#### 2.4.1 Governance Enables Evolution
+
+Stable constitutional foundations enable continuous evolution without compromising institutional coherence.
+
+#### 2.4.2 Authority Partitioning
+
+Every architectural artifact exercises authority only within its explicitly defined jurisdiction.
+
+#### 2.4.3 Constitutional Dependency
+
+Artifacts inherit authority from upstream constitutional sources but do not redefine them.
+
+#### 2.4.4 Meaning Preservation
+
+Semantic meaning remains stable while its canonical representation is governed and allowed to evolve.
+
+#### 2.4.5 Knowledge Before Reasoning
+
+Institutional knowledge establishes what is accepted.
+
+Reasoning derives what follows.
+
+Reasoning may evolve independently, but it remains constitutionally constrained by governed institutional knowledge.
+
+#### 2.4.6 Architectural Progression
+
+The repository is intentionally organised as a sequence of constitutional artifacts.
+
+Architecture Charter
+        ↓
+Product Constitution
+        ↓
+Product Lexicon
+        ↓
+Semantic Knowledge Architecture
+        ↓
+Knowledge Models
+        ↓
+Reasoning Models
+        ↓
+Platform Architecture
+        ↓
+Implementation
+
+Each artifact exists because it answers one category of architectural questions that should have a single authoritative source.
+
+#### 2.4.7 Constitutional Evolution
+
+This repository is intended to evolve continuously.
+
+Its evolution follows one guiding principle:
+
+Governed institutional knowledge enables coherent institutional reasoning.
+
+Architectural artifacts, knowledge models, reasoning models, platform capabilities, and implementations may all evolve over time, provided they preserve the constitutional foundations established by the repository.
+
+The objective is not to prevent change.
+
+The objective is to ensure that change strengthens institutional knowledge while preserving the constitutional integrity upon which future architects, AI agents, and other constitutional participants depend.
+
+# 3. Purpose of the Repository
 
 The AI Education Platform Architecture Repository is the authoritative knowledge base for the long-term architecture of the AI Education Platform.
 
-### What does it Preserve?
+### 3.1 What does it Preserve?
 
-Its purpose is to preserve the architectural intent, reasoning, and decisions that shape the platform throughout its lifecycle. The repository ensures that architectural knowledge remains durable, traceable, reviewable, and independent of individual conversations, contributors, or implementation technologies.
+The repository preserves governed architectural knowledge together with the reasoning that explains its evolution. It ensures that architectural knowledge remains durable, traceable, reviewable, and independent of individual conversations, contributors, or implementation technologies.
 
-### Why does this repository and its governance exist at all?
+### 3.2 Why does this repository and its governance exist at all?
 
 The repository exists because conversations are temporary, while architectural knowledge is a long-lived asset. Design discussions, implementation experience, and architectural decisions must therefore be progressively transformed into governed knowledge artifacts that can be understood, reviewed, and evolved over time.
 
-### What this repository is **not**
+### 3.3 What this repository is **not**
 
 This repository is not a project management system, implementation repository, or product backlog. It intentionally separates enduring architectural knowledge from short-lived planning and execution activities.
 
-### Relationship between repository, architecture workspace, and conversations
+### 3.4 Relationship between repository, architecture workspace, and conversations
 
 To support this separation:
 
@@ -32,7 +187,7 @@ Together, these elements create a disciplined architecture knowledge system that
 
 The methodology defined by this repository is platform-agnostic and may be applied to other complex software systems that require long-term preservation of architectural knowledge.
 
-# 2. Scope
+# 4. Scope
 
 This Charter governs the creation, organization, review, evolution, and maintenance of architectural knowledge within the AI Education Platform Architecture Repository.
 
@@ -40,41 +195,37 @@ It applies to all architecture artifacts maintained within the repository, inclu
 
 This Charter does not govern implementation activities, project management, release planning, or operational procedures except where they directly affect the integrity of the architecture knowledge base.
 
-# 3. Guiding Principles
+# 5. Architectural Operating Principles
 
-### 3.1 Knowledge Before Implementation
+### 5.1 Knowledge Before Implementation
 
 Durable architectural knowledge shall be established before implementation begins. Implementation is expected to realize the architecture, while implementation experience may subsequently refine it through the established governance process.
 
-### 3.2 Governance Before Architecture
+### 5.2 Governance Before Architecture
 
 The process by which architectural knowledge is created, reviewed, approved, and evolved shall be defined before architectural decisions are made.
 
-### 3.3 Preserve Reasoning, Not Just Conclusions
+### 5.3 Preserve Reasoning, Not Just Conclusions
 
 Architectural knowledge shall preserve the reasoning behind decisions, including alternatives considered, assumptions made, and trade-offs accepted, rather than recording conclusions alone.
 
-### 3.4 Progressive Formalization
+### 5.4 Progressive Formalization
 
 Architectural knowledge shall become progressively more formal as confidence increases. Conversations become session records; session decisions become ADR candidates; mature decisions become Architecture Decision Records; stable decisions become architecture specifications.
 
-### 3.5 Single Responsibility for Knowledge
+### 5.5 Single Responsibility for Knowledge
 
 Every architectural document shall have one clear purpose, one authoritative responsibility, and one primary knowledge domain. Architectural concepts should have a single authoritative home within the repository.
 
-### 3.6 Repository is Authoritative
+### 5.6 Repository is Authoritative
 
 The repository is the authoritative source of architectural knowledge. Conversations are temporary working sessions, and the Architecture Workspace manages the lifecycle of architecture work. Neither replaces the repository as the permanent record.
 
-### 3.7 Platform-Agnostic Methodology
-
-The methodology defined by this repository shall remain independent of specific tools, platforms, or implementation technologies. Architectural governance shall remain valid regardless of how the repository is accessed or managed.
-
-### 3.8 Continuous Architectural Learning
+### 5.7 Continuous Architectural Learning
 
 Architecture is expected to evolve through implementation experience. Learning from implementation shall enter the repository only through the established governance and review process, ensuring that architectural integrity is preserved while enabling continuous improvement.
 
-### 3.9 Canonical Semantic Model
+### 5.8 Canonical Semantic Model
 
 The platform shall be architected around a single canonical semantic model consisting of governed concepts (Nodes) and governed relationships (Edges).
 
@@ -84,7 +235,7 @@ All architecture artifacts shall derive their semantic structure from this canon
 
 The canonical semantic model is implementation-independent. Knowledge graph technologies may be used to realize this model but shall not define it.
 
-### 3.10 Semantic Before Dynamic
+### 5.9 Semantic Before Dynamic
 
 Concepts and relationships shall be defined semantically before their behavioral interactions are modeled.
 
@@ -94,7 +245,9 @@ Behavioral models such as the Educational Concept Model define how those Concept
 
 This separation preserves semantic consistency while allowing behavioral models to evolve independently.
 
-# 4. Knowledge Domains
+# 6. Knowledge Domains
+
+The Institutional Knowledge Methodology defines how architectural knowledge evolves conceptually. The following sections define how that knowledge is organized, governed, maintained, and consumed within the repository.
 
 Architectural knowledge is organized into domains according to its purpose rather than its document type or repository location. Each domain represents a distinct area of architectural responsibility with clearly defined objectives and boundaries.
 
@@ -102,7 +255,7 @@ Knowledge domains provide the primary organizational model for the repository. T
 
 Every architecture artifact shall belong to one primary knowledge domain. Where an artifact references concepts from another domain, it shall reference rather than duplicate that knowledge.
 
-### 4.1 Governance
+### 6.1 Governance
 
 **Purpose**
 Defines how architectural knowledge is created, reviewed, approved, maintained, and evolved throughout the lifecycle of the platform.
@@ -127,7 +280,7 @@ Ensure the architectural knowledge base remains consistent, traceable, reviewabl
 - Implementation planning
 - Product roadmap and release planning
 
-### 4.2 Product Strategy
+### 6.2 Product Strategy
 
 **Purpose**
 
@@ -152,7 +305,7 @@ Provide strategic direction for the platform while maintaining consistency with 
 - Implementation design
 - Project management activities
 
-### 4.3 Platform Architecture
+### 6.3 Platform Architecture
 
 **Purpose**
 
@@ -178,7 +331,7 @@ Describe how the platform is architected to fulfill the product strategy while m
 - Implementation-specific design
 - Operational procedures
 
-### 4.4 Research
+### 6.4 Research
 
 **Purpose**
 
@@ -204,7 +357,7 @@ Provide a structured mechanism for exploring uncertainty without prematurely for
 - Product strategy
 - Implementation documentation
 
-# 5. Knowledge Lifecycle
+# 7. Knowledge Lifecycle
 
 Architectural knowledge evolves through a disciplined lifecycle that progressively transforms temporary discussions into durable, governed architectural knowledge.
 
@@ -216,7 +369,7 @@ The lifecycle consists of the following stages.
 
 ---
 
-### 5.1 Conversation
+### 7.1 Conversation
 
 Architectural ideas are explored collaboratively.
 
@@ -226,7 +379,7 @@ Conversations are intentionally temporary and are not considered authoritative a
 
 ---
 
-### 5.2 Session Record
+### 7.2 Session Record
 
 Significant discussions are captured as a structured Session Record.
 
@@ -243,7 +396,7 @@ Session Records preserve history but do not establish architectural authority.
 
 ---
 
-### 5.3 Session Decisions
+### 7.3 Session Decisions
 
 Architectural decisions that emerge from one or more Session Records are identified and consolidated.
 
@@ -253,7 +406,7 @@ They remain subject to review and refinement.
 
 ---
 
-### 5.4 ADR Candidate
+### 7.4 ADR Candidate
 
 Architecturally significant Session Decisions become ADR Candidates.
 
@@ -263,7 +416,7 @@ Promotion to an ADR Candidate does not imply approval.
 
 ---
 
-### 5.5 Architecture Review
+### 7.5 Architecture Review
 
 ADR Candidates are evaluated through the Architecture Review process.
 
@@ -286,7 +439,7 @@ The review may:
 
 ---
 
-### 5.6 Architecture Decision Record (ADR)
+### 7.6 Architecture Decision Record (ADR)
 
 Approved architectural decisions are recorded as ADRs.
 
@@ -302,7 +455,7 @@ ADRs become authoritative architectural knowledge.
 
 ---
 
-### 5.7 Architecture Specification
+### 7.7 Architecture Specification
 
 Stable architectural decisions are incorporated into Architecture Specifications.
 
@@ -312,7 +465,7 @@ Specifications represent the authoritative description of the platform architect
 
 ---
 
-### 5.8 Implementation
+### 7.8 Implementation
 
 Implementation realizes the architecture through software, documentation, operational processes, or educational assets.
 
@@ -320,7 +473,7 @@ Implementation is expected to conform to the approved architecture.
 
 ---
 
-### 5.9 Implementation Learning
+### 7.9 Implementation Learning
 
 Implementation experience may reveal:
 
@@ -336,7 +489,7 @@ Instead, it becomes new architectural input.
 
 ---
 
-### 5.10 Continuous Evolution
+### 7.10 Continuous Evolution
 
 Architectural learning re-enters the governance process through Architecture Review.
 
@@ -344,9 +497,9 @@ This feedback loop enables the architecture to evolve while preserving architect
 
 Knowledge therefore evolves continuously without bypassing governance.
 
-# 6. Architectural Knowledge Governance
+# 8. Architectural Knowledge Governance
 
-### 6.1 Governance Model
+### 8.1 Governance Model
 
 Architectural knowledge is governed through a structured review process that ensures consistency, traceability, and long-term maintainability.
 
@@ -356,7 +509,7 @@ Governance applies equally to new architectural knowledge, modifications to exis
 
 The objective of governance is not to slow architectural progress, but to preserve architectural integrity as the platform evolves.
 
-### 6.2 Roles and Responsibilities
+### 8.2 Roles and Responsibilities
 
 **Chief Product Architect & Knowledge Curator**
 Responsibilities:
@@ -383,7 +536,7 @@ Responsibilities:
 - Perform consistency analysis.
 - Never approve authoritative knowledge.
 
-### 6.3 Architecture Reviews
+### 8.3 Architecture Reviews
 
 Architecture Reviews validate architectural quality before knowledge becomes authoritative.
 
@@ -405,7 +558,7 @@ Reviews may:
 - reject
 - request additional research
 
-### 6.4 Architecture Decision Records (ADRs)
+### 8.4 Architecture Decision Records (ADRs)
 
 Architecture Decision Records (ADRs) capture architectural decisions that are considered sufficiently significant to warrant permanent, independent documentation.
 
@@ -426,7 +579,7 @@ Satisfying these characteristics makes a decision eligible for consideration as 
 
 Approved ADRs become authoritative architectural knowledge and shall serve as the primary source of architectural rationale until superseded through the established governance process.
 
-### 6.5 Architecture Refactoring
+### 8.5 Architecture Refactoring
 
 Architecture Refactoring is the disciplined improvement of the architecture knowledge base without changing architectural intent.
 
@@ -441,28 +594,26 @@ Typical refactoring activities include:
 
 Architecture Refactoring improves the quality of the knowledge system while preserving architectural meaning.
 
-### 6.6 Repository Consistency
+### 8.6 Repository Consistency
 
 The architecture repository shall be maintained as a coherent and internally consistent knowledge system.
 
-Repository consistency ensures that architectural knowledge remains accurate, traceable, non-duplicative, and aligned with the Guiding Principles defined in this Charter.
+Repository Consistency ensures that architectural knowledge conforms to the governance established by the Product Lexicon and Semantic Knowledge Architecture.
 
 Consistency activities include, but are not limited to:
 
-- Eliminating duplicate architectural concepts
+- Eliminating duplicate definitions and redundant representations of architectural knowledge
 - Maintaining consistent terminology across the repository
 - Preserving clear document boundaries
 - Verifying cross-references and traceability
 - Identifying obsolete or superseded content
-- Ensuring each architectural concept has a single authoritative home
-- Maintaining a governed Concept Catalog (canonical Nodes)
-- Maintaining a governed Relationship Catalog (canonical Edges)
+- Verifying that every governed asset is maintained in its designated authoritative location
 
 Repository consistency shall be evaluated periodically through Repository Consistency Reviews and Architecture Refactoring activities.
 
 The objective of repository consistency is to preserve the integrity and long-term maintainability of the architecture knowledge base rather than to modify architectural intent.
 
-### 6.7 Governance Checklist
+### 8.7 Governance Checklist
 
 Every significant governance activity should be performed using the Architecture Review Checklist.
 
@@ -476,7 +627,7 @@ The checklist ensures that architectural knowledge remains:
 
 The checklist is maintained as a separate governance artifact to allow its independent evolution.
 
-# 7. Repository Organization
+# 9. Repository Organization
 
 The architecture repository is organized according to the Knowledge Domains defined in this Charter rather than by document type or implementation activity.
 
@@ -493,7 +644,7 @@ The repository structure may evolve over time to improve maintainability and usa
 
 Repository organization is an implementation of the architecture knowledge model and shall remain consistent with the principles defined in this Charter.
 
-# 8. Reading Order
+# 10. Reading Order
 
 The repository defines a recommended reading sequence to enable efficient onboarding while minimizing unnecessary context.
 
@@ -513,7 +664,7 @@ This sequence provides sufficient context for contributors while avoiding the ne
 
 Project State serves as the primary navigation document and identifies the minimum historical context required for each architecture session.
 
-# 9. Architecture Maintenance
+# 11. Architecture Maintenance
 
 The architecture repository is intended to remain accurate, coherent, and maintainable throughout the lifecycle of the platform.
 
@@ -532,7 +683,7 @@ Maintenance activities shall preserve architectural intent while continuously im
 
 The objective of maintenance is to ensure that the repository remains a trusted and authoritative source of architectural knowledge throughout the life of the product.
 
-# 10. Document Relationships
+# 12. Document Relationships
 
 The architecture repository is composed of related knowledge artifacts that collectively describe the evolution, current state, and future direction of the platform.
 
@@ -550,7 +701,7 @@ Typical relationships include:
 
 These relationships ensure that architectural knowledge remains traceable from initial discussion through implementation while preserving both historical reasoning and current architectural truth.
 
-# 11. Document Information
+# 13. Document Information
 
 Every architecture document shall include standardized metadata to support governance, traceability, and long-term maintenance.
 
@@ -572,7 +723,7 @@ Document metadata supports repository navigation, architectural traceability, an
 
 The metadata structure may evolve over time provided that architectural traceability is preserved.
 
-# 12. Versioning Philosophy
+# 14. Versioning Philosophy
 
 Different architecture artifacts serve different purposes and therefore evolve independently.
 
@@ -590,7 +741,7 @@ Changes to one artifact do not automatically require changes to all others. Each
 
 This separation ensures that the repository preserves both the current architecture and the reasoning that produced it without rewriting architectural history.
 
-# 13. Collaboration Principles
+# 15. Collaboration Principles
 
 Architecture is developed through collaborative reasoning rather than individual authorship.
 
