@@ -1,17 +1,29 @@
-**Note:** This document extends and operationalizes the Product Lexicon by defining the Canonical Semantic Model, Identity Standards, Semantic Taxonomy, Canonical Semantic Schemas, and the governed semantic assets that together constitute the platform's semantic knowledge architecture. It shall be read in conjunction with 003_Product_Lexicon.md.
+**Note:** This document extends the Product Lexicon by establishing the governed representation of the platform's canonical semantics.
+
+Where the Product Lexicon establishes authoritative meaning through governed language, the Semantic Knowledge Architecture governs how that meaning is represented, identified, organized, versioned, and consumed throughout the repository.
+
+Together these artifacts establish the Canonical Semantic Model upon which Institutional Knowledge is constructed.
+
+This document shall be read in conjunction with 003_Product_Lexicon.md.
 
 **Preamble:**
 Every Concept shall belong to exactly one Concept Category, and every Relationship shall belong to exactly one Relationship Family. Classification establishes the primary semantic identity of a semantic object. Richness and cross-domain meaning shall be expressed through governed relationships rather than multiple classifications.
 
 # 5. Canonical Semantic Model
 
-The Canonical Semantic Model defines the authoritative representation of semantic knowledge within the AI Education Platform. It establishes a governed framework for representing Concepts (Canonical Nodes), Relationships (Canonical Edges), their identities, classifications, schemas, and governance.
+# 5. Canonical Semantic Model
 
-The Canonical Semantic Model serves as the semantic foundation upon which all architectural knowledge is constructed. Every downstream architectural artifact—including educational models, cognitive models, instructional models, platform architecture, and future reasoning systems—shall reference and build upon this common semantic representation rather than introducing independent semantic structures.
+The Canonical Semantic Model establishes the governed representation of the platform's canonical semantics.
 
-By separating semantic representation from behavioral models, the Canonical Semantic Model provides a stable and enduring knowledge foundation while allowing educational theories, instructional strategies, and platform capabilities to evolve independently. This separation preserves semantic consistency, enables architectural traceability, and supports the long-term evolution of the platform without fragmenting its shared language.
+Meaning is established by the Product Lexicon. The Canonical Semantic Model does not create or redefine that meaning. Instead, it governs how canonical meaning is represented, identified, classified, organized, versioned, and evolved throughout the repository.
 
-As the semantic backbone of the repository, the Canonical Semantic Model establishes the governed knowledge graph from which the platform's Instructional Intelligence will emerge. Educational models, platform capabilities, AI agents, and future reasoning systems are consumers of this shared semantic foundation rather than independent sources of knowledge.
+The Canonical Semantic Model provides the authoritative semantic representation of the AI Education Platform through a governed framework comprising Canonical Concepts (Nodes), Canonical Relationships (Edges), Identity Standards, Semantic Taxonomy, Canonical Semantic Schemas, and the governance rules that preserve their long-term integrity.
+
+Together, the Product Lexicon and the Canonical Semantic Model establish the platform's Canonical Semantic Foundation. Institutional Knowledge is constructed upon this governed representation rather than independent semantic interpretations.
+
+Knowledge Models, Reasoning Models, Platform Capabilities, and future AI agents consume this shared semantic foundation while exercising authority only within their own constitutional responsibilities. By separating semantic representation from domain knowledge, reasoning, behavioural models, and implementation, the Canonical Semantic Model preserves semantic consistency, enables architectural traceability, and allows downstream knowledge and platform capabilities to evolve independently without fragmenting canonical meaning.
+
+As the semantic backbone of the repository, the Canonical Semantic Model provides the governed semantic foundation from which the platform's Instructional Intelligence and future institutional knowledge systems will emerge.
 
 ### 5.1 Scope
 
@@ -31,7 +43,13 @@ The Canonical Semantic Model does not govern:
 
 ### 5.2 Architectural Role
 
-The Canonical Semantic Model serves as the common semantic foundation for all downstream architectural artifacts. These artifacts consume and extend the Canonical Semantic Model without redefining its semantic structures.
+The Canonical Semantic Model serves as the governed semantic foundation upon which Institutional Knowledge is constructed.
+
+Downstream artifacts consume this governed representation while preserving canonical meaning and constitutional authority.
+
+Knowledge Models, Reasoning Models, Platform Capabilities, and future AI agents consume this governed semantic foundation while exercising authority only within their own constitutional responsibilities. They inherit and build upon the Canonical Semantic Model rather than introducing independent semantic representations or redefining canonical meaning.
+
+Accordingly, the Canonical Semantic Model serves as the common semantic foundation for all downstream architectural artifacts. These artifacts consume and extend the Canonical Semantic Model without redefining its semantic structures.
 
 - Product Vision
 - Product Positioning
@@ -83,23 +101,20 @@ Product Lexicon
         ▼
 Canonical Semantic Model
         │
-        ├──────────────┬──────────────┬──────────────┐
-        ▼              ▼              ▼
-Educational      Learner        Educational
-Concept Model    Cognitive      Knowledge Model
-                 Model
+        ▼
+Institutional Knowledge
         │
         ▼
-Teaching DNA
+Knowledge Models
         │
         ▼
-Instruction Model
+Reasoning Models
         │
         ▼
-Instructional Intelligence Platform
+Platform Capabilities
         │
         ▼
-AI Agent Architecture
+Constitutional Participants
 
 # 6. Identity Standards
 
@@ -227,6 +242,10 @@ Concept Categories and Relationship Categories are controlled vocabularies maint
 The Semantic Taxonomy provides long-term semantic organization and shall remain stable over time. Refinements shall occur only when necessary to improve semantic clarity, architectural consistency, or long-term maintainability.
 
 # 8. Canonical Semantic Schemas
+
+Canonical Semantic Schemas govern semantic representation.
+
+They do not define domain knowledge, behavioral models, reasoning strategies, or implementation structures.
 
 Every Concept (Node) and Relationship (Edge) defined within the Canonical Semantic Model shall conform to the schemas defined in this section. These schemas establish the minimum required structure for representing semantic objects consistently across the platform.
 
@@ -468,6 +487,8 @@ Examples
 - Nodes never define Edges.
 - Edges never redefine Nodes.
 - No architectural artifact may introduce independent semantic representations.
+- Knowledge Models consume Canonical Representation rather than redefine it.
+- Reasoning Models consume Institutional Knowledge rather than redefine Canonical Representation.
 
 # 13. Governance Process
 
@@ -512,3 +533,9 @@ Topics
 - Backward Compatibility
 - Repository Evolution
 - Long-term Governance
+
+## Methodology Alignment
+
+Future evolution of the Canonical Semantic Model shall preserve alignment with the constitutional methodology established by the Architecture Charter and the semantic governance established by the Product Lexicon.
+
+Evolution shall strengthen governed representation while preserving canonical meaning.

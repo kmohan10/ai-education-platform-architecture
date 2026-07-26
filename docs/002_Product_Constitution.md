@@ -1,6 +1,18 @@
 # 0. Preamble
 
-The Constitution defines the enduring beliefs and principles that govern the AI Education Platform. It establishes what the platform exists to achieve and why those goals matter. It intentionally does not prescribe how those beliefs are realized. The realization of these principles is the responsibility of the Product Strategy, Educational Models, and Platform Architecture artifacts.
+# 0. Preamble
+
+The Product Constitution establishes the immutable principles that govern the AI Education Platform.
+
+It defines the platform's purpose, enduring beliefs, and non-negotiable principles while deliberately remaining independent of product strategy, semantic representation, educational behaviour, platform architecture, and implementation.
+
+The Constitution answers one constitutional question:
+
+> **What principles shall remain true regardless of how the platform evolves?**
+
+The realization of these principles is the responsibility of downstream constitutional artifacts including the Product Vision, Product Positioning, Product Lexicon, Semantic Knowledge Architecture, Educational Models, and Platform Architecture.
+
+Those artifacts inherit the authority established by this Constitution but shall not redefine it.
 
 # 1. Product Purpose
 
@@ -11,6 +23,8 @@ The platform preserves, develops, and continuously improves instructional intell
 Rather than treating education as the delivery of information, the platform views education as the development of the learner's ability to understand, reason, judge, and apply knowledge within an ever-changing world.
 
 The platform measures its success not by the amount of information delivered, but by the quality of cognitive transformation achieved.
+
+This purpose remains stable as educational methods, technologies, instructional intelligence, and implementation evolve.
 
 # 2. Fundamental Beliefs (Axioms)
 
@@ -170,8 +184,22 @@ The platform shall continuously improve its instructional intelligence through e
 
 **NP-8: Constitutional Integrity**
 
-All future product strategy, platform architecture, and implementation decisions shall remain consistent with the beliefs and principles defined in this Constitution.
+All downstream constitutional artifacts, product strategy, educational models, platform architecture, and implementation shall inherit and remain consistent with the principles established by this Constitution.
+
+No downstream artifact shall redefine constitutional authority established herein.
 
 **NP-9: Learning Conditions**
 
 The platform shall optimize the design of Learning Conditions rather than attempting to replace the learner's cognitive processes. Every instructional intervention should improve the conditions under which meaningful cognitive transformation is most likely to occur.
+
+---
+
+# Constitutional Authority
+
+This Constitution serves as the authoritative source of the immutable principles governing the AI Education Platform.
+
+Future constitutional artifacts—including the Product Vision, Product Positioning, Product Lexicon, Semantic Knowledge Architecture, Educational Models, Platform Architecture, and Implementation—derive their authority from this Constitution while exercising authority only within their own constitutional responsibilities.
+
+The Constitution is intentionally stable.
+
+Its principles may evolve only through the constitutional governance process established by the Architecture Charter.

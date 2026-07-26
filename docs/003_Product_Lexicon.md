@@ -2,9 +2,17 @@
 
 ### 1.1. Purpose
 
-The Product Lexicon establishes the authoritative semantic vocabulary of the AI Education Platform. It provides the canonical definitions of concepts and the governed relationship types used throughout the repository.
+The Product Lexicon establishes the authoritative semantic vocabulary of the AI Education Platform.
 
-Every architectural model, research artifact, ADR, design document, and implementation shall use terminology and relationships defined by the Product Lexicon. This ensures semantic consistency, reduces ambiguity, and enables knowledge to evolve without fragmentation and while providing a stable foundation for future reasoning systems.
+It serves as the constitutional authority for the platform's governed language by defining the canonical concepts, relationship types, and semantic conventions used throughout the repository.
+
+The Product Lexicon answers one constitutional question:
+
+> **What language is legitimate?**
+
+Every architectural model, research artifact, Architecture Decision Record (ADR), design document, and implementation shall use the concepts and relationship types defined by the Product Lexicon rather than introducing independent terminology.
+
+This ensures semantic consistency, reduces ambiguity, and enables knowledge to evolve without fragmentation while providing a stable foundation for future reasoning systems.
 
 ### 1.2. Scope
 
@@ -66,13 +74,17 @@ The Product Lexicon shall evolve through controlled refinement while preserving 
 
 The Product Lexicon serves as the semantic foundation of the architecture.
 
-It sits between the Product Constitution and all downstream architectural models.
+It occupies the constitutional layer between the Product Constitution and the Semantic Knowledge Architecture.
 
-The Constitution establishes the platform's principles.
+The Product Constitution establishes the platform's immutable principles.
 
-The Lexicon establishes the language used to express those principles.
+The Product Lexicon establishes the governed language through which those principles are expressed.
 
-Every subsequent architectural artifact depends upon this shared semantic foundation.
+The Semantic Knowledge Architecture governs the canonical representation of that language.
+
+Together, the Product Lexicon and the Semantic Knowledge Architecture establish the platform's Canonical Semantic Model.
+
+Every downstream architectural artifact inherits this semantic foundation and shall consume the canonical concepts and relationship types defined by the Product Lexicon rather than introducing independent terminology.
 
 ### 3.2. Dependencies
 
@@ -81,6 +93,10 @@ Every subsequent architectural artifact depends upon this shared semantic founda
 ### 3.3. Downstream Consumers
 
 The Product Lexicon provides the authoritative semantic foundation for all downstream architectural artifacts. Every consumer shall use the canonical concepts, identifiers, and relationship types defined by the Product Lexicon rather than introducing independent terminology.
+
+Downstream consumers inherit the canonical concepts and relationship types established by the Product Lexicon.
+
+They may compose, organize, interpret, or operationalize those concepts within their own constitutional responsibilities, but they shall not redefine the canonical semantic vocabulary.
 
 **Direct Consumers**
 
@@ -110,6 +126,12 @@ The following artifacts and systems indirectly rely on the Product Lexicon throu
 - **Future platform services**
 
 ### 3.4. Relationship to Other Architecture Artifacts
+
+The Product Lexicon governs meaning.
+
+The Semantic Knowledge Architecture governs the canonical representation of that meaning.
+
+Together they establish the Canonical Semantic Model upon which Institutional Knowledge is constructed.
 
 #### 3.4.1. Architectural Relationship Vocabulary (Version 1.0)
 
@@ -193,6 +215,14 @@ All architectural artifacts, research documents, models, implementation assets, 
 **Long-Term Knowledge Preservation**
 
 Semantic Assets represent enduring institutional knowledge. Governance shall preserve their identity, traceability, and historical evolution so that architectural knowledge remains understandable, reusable, and maintainable over time.
+
+**Governed Representation**
+
+Semantic Governance preserves the governed representation of meaning rather than creating meaning itself.
+
+The Product Lexicon establishes authoritative meaning.
+
+The Semantic Knowledge Architecture governs how that meaning is represented, identified, organized, and evolved within the Canonical Semantic Model.
 
 ### 4.2. Governance Authority
 
@@ -482,3 +512,5 @@ SM-1.1.1 YYYY-MM-DD Metadata Change Updated Review Status LG-015
 Version History forms part of the platform's institutional knowledge and shall be preserved as an integral component of the Canonical Semantic Model.
 
 The semantic governance principles established by the Product Lexicon are realized through the Semantic Knowledge Architecture defined in 003a_Semantic_Knowledge_Architecture.md.
+
+Together these constitutional artifacts establish the platform's Canonical Semantic Model, providing the governed semantic foundation upon which Institutional Knowledge, Knowledge Models, Reasoning Models, and future platform capabilities are constructed.
