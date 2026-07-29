@@ -2,57 +2,76 @@
 
 ## Overview
 
-This repository contains the architectural knowledge for the AI Education Platform.
+This repository preserves the constitutional knowledge required to discover, define, govern, and realize an Institutional Intelligence Platform.
 
-Its purpose is not simply to document software architecture, but to preserve the philosophy, reasoning, decisions, governance, and evolution of the platform throughout its lifecycle.
+Although the initial realization is the AI Education Platform, the repository has evolved into a reusable methodology for governing Institutional Knowledge and systematically realizing Institutional Intelligence across diverse institutional domains.
 
-The repository is designed to serve as the authoritative source of architectural knowledge while enabling long-term collaboration between human architects and AI assistants.
+Rather than documenting software architecture alone, the repository preserves the constitutional philosophy, methodology, governance, reasoning, architectural decisions, and institutional knowledge that collectively define the platform.
 
-                     Architecture Repository
+The repository serves as the authoritative source of architectural knowledge while enabling long-term collaboration between human architects and AI assistants.
 
-                 ┌─────────────────────────┐
-                 │       Governance        │
-                 ├─────────────────────────┤
-                 │    Product Strategy     │
-                 ├─────────────────────────┤
-                 │ Platform Architecture   │
-                 ├─────────────────────────┤
-                 │        Research         │
-                 └─────────────────────────┘
+```
+            Institutional Knowledge Methodology
+                         │
+                     Defines
+                         ▼
+            Institutional Knowledge Repository
+                         │
+                    Preserves
+                         ▼
+          Institutional Intelligence Platform
+                         │
+                    Realizes
+                         ▼
+          Domain Intelligence Platforms
+                         │
+                   Specialize
+                         ▼
+                 Domain Products
+                         │
+                     Apply
+                         ▼
+              Institutional Outcomes
+```
 
 ---
 
 # Repository Purpose
 
-The architecture of a long-lived AI platform extends beyond software design.
+The repository exists to preserve the Constitutional Foundation of an Institution and the methodology required to transform that foundation into governed operational behaviour.
 
-It includes:
+The repository captures:
 
-- Product philosophy
-- Product strategy
+- Institutional philosophy
+- Constitutional methodology
+- Governance
+- Institutional knowledge
+- Institutional reasoning
+- Institutional intelligence
 - Platform architecture
-- Governance methodology
 - Architectural decisions
 - Research
-- Historical reasoning
+- Historical architectural evolution
 
-This repository preserves that knowledge in a structured, traceable, and maintainable form.
+Together these artifacts establish a reusable Institutional Knowledge Architecture that remains independent of implementation technologies.
 
 ---
 
 # Architecture Philosophy
 
-The repository is founded on several core principles.
+The repository is founded upon several enduring architectural principles.
 
 - Architecture before implementation.
-- Knowledge before implementation.
 - Governance before architecture.
-- Conversations are temporary; architectural knowledge is permanent.
+- Knowledge before implementation.
 - Preserve reasoning, not merely conclusions.
-- Maintain a single authoritative home for every architectural concept.
-- Simplicity is preferred unless complexity provides clear architectural value.
+- Conversations are temporary; institutional knowledge is permanent.
+- Every constitutional concept has one authoritative home.
+- Institutional knowledge precedes institutional intelligence.
+- Institutional intelligence precedes domain specialization.
+- Technology should realize the architecture rather than define it.
 
-These principles are defined formally in the Architecture Charter.
+These principles are formally governed by the Architecture Charter.
 
 ---
 
@@ -65,17 +84,27 @@ The repository is organized around four Knowledge Domains.
 - Platform Architecture
 - Research
 
-Each Knowledge Domain represents a distinct area of architectural responsibility and contains the authoritative artifacts for that domain.
+These domains collectively define the Constitutional Foundation of the Institutional Intelligence Platform.
 
 ---
 
 # Current Status
 
-The repository has established its Governance Foundation.
+The repository has completed its foundational constitutional discovery.
 
-Current work is focused on developing the Product Strategy for the AI Education Platform.
+Completed constitutional milestones include:
 
-The authoritative current state of the architecture is maintained in:
+- Institutional Knowledge Methodology
+- Institutional Knowledge Repository
+- Institutional Intelligence Platform Discovery
+
+The next phase focuses on the constitutional specification of the Institutional Intelligence Platform through:
+
+- Platform Vision
+- Platform Architecture
+- Platform Positioning
+
+The authoritative current state of the repository is maintained in:
 
 `docs/001_Project_State.md`
 
@@ -83,34 +112,41 @@ The authoritative current state of the architecture is maintained in:
 
 # Getting Started
 
-New contributors should follow the recommended reading order.
+New contributors should follow the recommended reading sequence.
 
 1. README.md
 2. START_HERE.md
 3. Architecture Charter
 4. Project State
-5. Referenced Session Records
-6. Active Architecture Workspace
+5. Institutional Knowledge Methodology
+6. Institutional Knowledge Repository
+7. Platform Discovery
+8. Referenced Session Records
+9. Active Architecture Workspace
 
-This reading sequence provides sufficient context while minimizing unnecessary historical review.
+This progression mirrors the constitutional evolution of the repository.
 
 ---
 
 # Relationship to the Architecture Workspace
 
-This repository and the GitHub Architecture Workspace serve complementary purposes.
+The Repository and the Architecture Workspace serve complementary constitutional responsibilities.
 
-The repository stores authoritative architectural knowledge.
+The Repository preserves authoritative institutional knowledge.
 
-The Workspace manages the lifecycle of architectural work required to create, review, approve, and evolve that knowledge.
+The Workspace manages the collaborative lifecycle through which that knowledge is discovered, reviewed, validated, approved, and evolved.
 
-The repository answers:
+The Repository answers:
 
-"What do we know?"
+> **What does the institution know?**
+
+The Platform realizes:
+
+> **How does the institution consistently embody what it knows?**
 
 The Workspace answers:
 
-"What are we working on?"
+> **What are we currently discovering and evolving?**
 
 ---
 
@@ -118,25 +154,26 @@ The Workspace answers:
 
 The repository is intended to remain:
 
+- Constitutional
 - Authoritative
 - Traceable
 - Consistent
-- Implementation-independent
-- Maintainable
+- Technology-independent
 - Governed
+- Maintainable
 
-Every architectural artifact should have a single authoritative home and evolve through the governance methodology defined in the Architecture Charter.
+Every architectural artifact has a single authoritative home and evolves through the constitutional governance methodology defined by the Architecture Charter.
 
 ---
 
 # Long-Term Vision
 
-The immediate objective of this repository is to guide the design and evolution of the AI Education Platform.
+The immediate objective of this repository is to define the Institutional Intelligence Platform and its first domain realization: the AI Education Platform.
 
-The longer-term vision is to establish a disciplined methodology for preserving architectural knowledge throughout the lifecycle of complex AI systems.
+The longer-term vision is to establish a reusable Institutional Knowledge Architecture capable of governing Institutional Intelligence across education, healthcare, finance, government, manufacturing, and other institutional domains.
 
-As the platform evolves, the repository itself will evolve through the same governance principles it defines.
+By separating Institutional Knowledge from Institutional Intelligence and Domain Intelligence, the repository establishes a constitutional architecture that can evolve for decades while preserving institutional integrity.
 
 ---
 
-For detailed onboarding instructions, begin with **START_HERE.md**.
+For onboarding guidance and the recommended constitutional reading sequence, begin with **START_HERE.md**.

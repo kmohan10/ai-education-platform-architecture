@@ -1,10 +1,10 @@
 # START HERE
 
-Welcome to the AI Education Platform Architecture Repository.
+Welcome to the AI Education Intelligence Platform Architecture Repository.
 
-This repository is the first implementation of a **validated Institutional Knowledge Architecture Methodology**.
+This repository is the first implementation of a **validated Institutional Knowledge Architecture Methodology** and the constitutional foundation for an **Institutional Intelligence Platform**.
 
-Its purpose is not simply to document architecture, but to preserve, govern, and evolve institutional knowledge through a constitutional framework that remains independent of implementation.
+Its purpose is not simply to document architecture, but to preserve, govern, and evolve Institutional Knowledge while systematically realizing Institutional Intelligence through a constitutional framework that remains independent of implementation.
 
 Before contributing, become familiar with both the repository's constitutional foundations and its current architectural state.
 
@@ -46,7 +46,7 @@ Understand:
 
 Understand:
 
-- the immutable principles governing the AI Education Platform
+- the immutable principles governing the AI Education Intelligence Platform
 - the platform's purpose
 - constitutional boundaries
 - non-negotiable architectural principles
@@ -77,7 +77,22 @@ Understand:
 
 ↓
 
-## 6. Current Architecture Phase
+## 6. Platform Discovery
+
+Understand:
+
+- Institutional Intelligence
+- Institutional Intelligence Platform
+- Behavioural Integrity
+- Constitutional Operationalization
+- Platform Mission
+- Platform Scope
+- Platform Stakeholders
+- Repository Evolution vs Platform Learning
+
+↓
+
+## 7. Current Architecture Phase
 
 Continue work from the current constitutional state of the repository.
 
@@ -105,13 +120,17 @@ Downstream artifacts inherit constitutional decisions.
 
 They do not redefine them.
 
+Constitutional responsibilities emerge through discovery and validation before they are codified as authoritative architectural knowledge.
+
 ---
 
 # Repository Principles
 
 The repository preserves institutional knowledge.
 
-GitHub Projects manages the operational work required to evolve that knowledge.
+The Institutional Intelligence Platform realizes that knowledge through governed operational behaviour.
+
+GitHub Projects manages the operational work required to evolve both.
 
 The repository remains the authoritative source of constitutional knowledge.
 
@@ -131,6 +150,8 @@ Preserve canonical representation.
 
 Preserve institutional knowledge.
 
+Preserve the distinction between Institutional Knowledge, Institutional Intelligence, and Domain Intelligence.
+
 Allow governance to enable evolution rather than bypass it.
 
 When introducing new architectural concepts, distinguish clearly between:
@@ -139,7 +160,7 @@ When introducing new architectural concepts, distinguish clearly between:
 - emergent architectural observations,
 - future architectural hypotheses.
 
-New constitutional principles should emerge through repeated architectural evidence and independent validation rather than being introduced a priori.
+New constitutional principles should emerge through repeated architectural evidence and independent validation rather than being introduced *a priori*.
 
 ---
 
@@ -153,7 +174,8 @@ It preserves:
 - constitutional authority,
 - canonical meaning,
 - institutional knowledge,
-- constitutionally governed reasoning.
+- constitutionally governed reasoning,
+- institutional intelligence.
 
 Implementations may evolve.
 
@@ -167,13 +189,43 @@ The constitutional knowledge preserved by this repository is intended to remain 
 
 # Long-Term Vision
 
-The long-term objective of this repository is to provide a durable constitutional foundation for:
+The long-term objective of this repository is to establish a reusable Institutional Knowledge Architecture capable of governing Institutional Intelligence across multiple institutional domains.
 
-- future architectural artifacts,
-- governed knowledge domains,
-- architecture review,
-- institutional reasoning,
-- AI-assisted architectural development,
-- future AI agents operating within the same Institutional Knowledge Architecture.
+The constitutional progression of the repository is:
 
-Every contribution should strengthen that foundation.
+```
+Institutional Knowledge Methodology
+            │
+         Defines
+            ▼
+Institutional Knowledge Repository
+            │
+        Preserves
+            ▼
+Institutional Intelligence Platform
+            │
+         Realizes
+            ▼
+Domain Intelligence Platforms
+            │
+        Specialize
+            ▼
+Domain Products
+            │
+          Apply
+            ▼
+Institutional Outcomes
+```
+
+Future domain realizations may include:
+
+- Education
+- Healthcare
+- Finance
+- Government
+- Manufacturing
+- Legal
+- Hospitality
+- Other institutional domains
+
+Every contribution should strengthen this constitutional foundation while preserving the integrity of the constitutional layers that precede it.
