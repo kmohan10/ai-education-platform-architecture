@@ -8,53 +8,62 @@
 
 This document is the authoritative operational summary of the repository.
 
-It is updated at the conclusion of every significant architectural milestone, Architecture Assurance Review (AAR), or constitutional artifact completion.
+It is updated at the conclusion of every significant architectural milestone, Architecture Assurance Review (AAR), constitutional artifact completion, or repository phase transition.
 
-Repository navigation documents (README.md and START_HERE.md) are updated only when repository organization, governance methodology, or onboarding guidance changes.
+Repository navigation documents (README.md and START_HERE.md) derive their operational status from this document and are updated only when repository organization, governance methodology, or onboarding guidance changes.
 
 ---
 
 # Executive Summary
 
-The AI Education Platform Architecture Repository preserves the constitutional knowledge required to discover, govern, and realize an Institutional Intelligence Platform.
+The Institutional Intelligence Platform Architecture Repository preserves the constitutional knowledge required to discover, position, specify, govern, and realize an Institutional Intelligence Platform.
 
-The repository now represents the first implementation of a validated **Institutional Knowledge Architecture Methodology** and has successfully completed the constitutional discovery of the **Institutional Intelligence Platform**.
+The repository now represents a validated methodology for governing Institutional Knowledge and transforming that knowledge into governed Institutional Intelligence.
 
-The Constitutional Foundation and Platform Discovery have both been independently validated through architectural reconstruction, constitutional review, and cross-domain reasoning.
+Platform Discovery has substantially completed its constitutional objectives through Platform Discovery, Platform Vision, Platform Architecture, Platform Positioning, and Competitive Positioning.
 
-The repository now enters the **Platform Specification Phase**, beginning with the development of:
+The repository has completed the principal constitutional specifications of the Institutional Intelligence Platform and is completing the remaining Platform Discovery artifact—Market Landscape Analysis—before expanding Platform Specification into its next stage.
 
+---
+
+# Current Repository Milestone
+
+**Platform Discovery Near Completion**
+
+The repository has successfully established:
+
+- Institutional Knowledge Methodology
+- Institutional Knowledge Repository
+- Institutional Intelligence Platform Discovery
 - Platform Vision
 - Platform Architecture
 - Platform Positioning
+- Competitive Positioning
 
-These artifacts will transform the discoveries of Platform Discovery into the constitutional specification of the Institutional Intelligence Platform
----
+The only remaining Platform Discovery artifact is:
 
-# Repository Milestone
+- Market Landscape Analysis
 
-**Current Repository Milestone**
-
-Institutional Intelligence Platform Discovery Complete
-
-The repository has successfully completed the constitutional discovery of the Institutional Intelligence Platform.
-
-The Platform's identity, mission, constitutional responsibilities, behavioural objective, governance model, stakeholder model, and operationalization principles have been established and validated.
-
-This milestone completes the transition from preserving Institutional Knowledge to realizing Institutional Intelligence and establishes the constitutional foundation for all future Domain Intelligence Platforms.
+Completion of Market Landscape Analysis will formally conclude Platform Discovery and initiate the Platform Specification phase.
 
 ---
 
 # Architecture Maturity
 
-| Knowledge Domain                              | Status          |
-| --------------------------------------------- | --------------- |
-| Constitutional Foundation                     | **Validated**   |
-| Institutional Intelligence Platform Discovery | **Complete**    |
-| Platform Specification                        | **In Progress** |
-| Domain Intelligence Platforms                 | Planned         |
-| Research                                      | Active          |
-| Implementation                                | Not Started     |
+| Knowledge Domain | Status |
+|------------------|--------|
+| Constitutional Foundation | **Validated** |
+| Institutional Knowledge Methodology | **Validated** |
+| Institutional Intelligence Platform Discovery | **Validated** |
+| Platform Vision | **Validated** |
+| Platform Architecture | **Validated** |
+| Platform Positioning | **Validated** |
+| Competitive Positioning | **Validated** |
+| Market Landscape Analysis | **In Progress** |
+| Platform Specification | **Preparing** |
+| Domain Intelligence Platforms | Planned |
+| Research | Active |
+| Implementation | Not Started |
 
 ---
 
@@ -62,26 +71,26 @@ This milestone completes the transition from preserving Institutional Knowledge 
 
 **Current Phase**
 
-Platform Specification
+Platform Discovery
 
 **Current Milestone**
 
-Platform Vision
+Competitive Positioning Complete
 
 **Current Artifact**
 
-005_Platform_Vision.md
+Market_Landscape_Analysis.md
 
 ---
 
 # Architecture Work Management
 
-The repository distinguishes between operational work management and institutional knowledge.
+The repository distinguishes operational work management from institutional knowledge.
 
-- GitHub Project manages active architectural work.
-- The repository preserves institutional architectural knowledge.
+- GitHub Projects manages active architectural work.
+- The Repository preserves institutional architectural knowledge.
 - This Project State document summarizes the current constitutional state of the repository.
-- Architecture Assurance Reviews certify major architectural milestones.
+- Architecture Assurance Reviews independently validate major constitutional milestones.
 
 ---
 
@@ -89,13 +98,11 @@ The repository distinguishes between operational work management and institution
 
 ## Discovery
 
-- Platform Vision
-- Platform Architecture
-- Platform Positioning
+- Market Landscape Analysis
 
 ## Drafting
 
-- Platform Vision
+- (empty)
 
 ## Architecture Review
 
@@ -108,10 +115,13 @@ The repository distinguishes between operational work management and institution
 - Product Constitution
 - Product Lexicon
 - Semantic Knowledge Architecture
-- Platform Discovery
-- Architecture Assurance Reviews
 - Institutional Knowledge Methodology
-- Session Records
+- Platform Discovery
+- Platform Vision
+- Platform Architecture
+- Platform Positioning
+- Competitive Positioning
+- Architecture Assurance Reviews
 
 ## Implementation Complete
 
@@ -121,75 +131,83 @@ The repository distinguishes between operational work management and institution
 
 # Major Milestones Completed
 
-### 19-Jul-2026 — Architecture Charter Established
+## Constitutional Foundation
 
-The Architecture Charter established the constitutional governance framework for creating, governing, and evolving institutional architectural knowledge.
-
----
-
-### 19-Jul-2026 — Product Constitution Established
-
-The Product Constitution established the immutable principles governing the AI Education Platform.
+- Architecture Charter established
+- Product Constitution established
+- Product Lexicon established
+- Semantic Knowledge Architecture established
+- Constitutional Foundation independently validated
 
 ---
 
-### Product Lexicon Established
+## Institutional Knowledge Methodology
 
-The Product Lexicon established the platform's canonical semantic vocabulary and semantic governance.
+Independent reconstruction successfully derived the governing philosophy, constitutional mechanics, knowledge mechanics, and reasoning mechanics embodied within the repository.
 
----
-
-### Semantic Knowledge Architecture Established
-
-The Semantic Knowledge Architecture established the constitutional governance of canonical semantic representation, identity, traceability, and semantic evolution.
+Independent validation confirmed that the methodology generalizes beyond the AI Education Platform and constitutes a reusable Institutional Knowledge Architecture.
 
 ---
 
-### Constitutional Foundation Certified
+## Institutional Intelligence Platform Discovery
 
-Architecture Assurance Reviews confirmed that the constitutional foundation is internally coherent, authority remains properly partitioned, semantic governance is consistent, and architectural dependencies remain constitutionally sound.
+Platform Discovery established:
+
+- the constitutional identity of the Institutional Intelligence Platform
+- Institutional Intelligence as a distinct architectural capability
+- Behavioural Integrity as the constitutional objective
+- Constitutional Operationalization as the realization mechanism
+
+Independent Architecture Assurance confirmed Platform Discovery as constitutionally coherent and suitable for Platform Specification.
 
 ---
 
-### Institutional Knowledge Methodology Independently Reconstructed
+## Platform Vision
 
-Independent architectural reconstruction successfully derived the repository's governing philosophy, constitutional mechanics, knowledge mechanics, and reasoning mechanics without reliance on the original authors.
+Established the enduring constitutional purpose of the Institutional Intelligence Platform.
 
 ---
 
-### Institutional Knowledge Methodology Independently Validated
+## Platform Architecture
 
-Independent validation confirmed that the repository communicates a coherent methodology for governing institutional knowledge and that the methodology generalizes beyond the AI Education Platform.
+Established the constitutional organization of the Platform through its Architectural Identity, Constitutional Capabilities, Architectural Responsibilities, and Constitutional Boundaries.
 
-### 28-Jul-2026 — Institutional Intelligence Platform Discovery Completed
+Independent Architecture Assurance (AAR-005) validated the Platform Architecture as governance-ready.
 
-Platform Discovery established the constitutional identity of the Institutional Intelligence Platform and distinguished Institutional Intelligence from Institutional Knowledge and Institutional Reasoning.
-
-The discovery also established Behavioural Integrity as the Platform's constitutional objective and Constitutional Operationalization as the mechanism through which Institutional Intelligence is consistently realized
 ---
 
-### 29-Jul-2026 — Independent Architecture Assurance
+## Platform Positioning
 
-Following completion of Platform Discovery, the repository underwent an independent **Architecture Assurance Review (AAR-004)** to validate the constitutional discovery.
+Established the constitutional positioning of the Institutional Intelligence Platform within the Institutional Knowledge Architecture by defining its purpose, responsibilities, boundaries, upstream dependencies, downstream consumers, and relationship to Institutional Knowledge, Institutional Reasoning, and Domain Intelligence.
 
-The review successfully achieved its intended objective. The **Institutional Intelligence Platform** was independently reconstructed from the repository's constitutional artifacts without reliance on the design conversations that produced them.
+---
 
-The review concluded that the **Platform Discovery** package demonstrates sufficient constitutional coherence, responsibility partitioning, methodological consistency, and explanatory power to serve as the authoritative constitutional foundation for **Platform Specification**.
+## Competitive Positioning
 
-The review further concluded that the remaining work belongs to **Platform Specification**—including Platform Vision, Platform Architecture, and Platform Positioning—rather than additional constitutional discovery.
+Established the constitutional differentiation of the Institutional Intelligence Platform from adjacent architectural categories.
 
-**Architecture Assurance Outcome:**  
-**Ready with Minor Refinements** → Proceed to Platform Specification.
+Completed analyses include:
+
+- Knowledge Management Systems
+- Enterprise Search
+- Knowledge Graphs
+- Retrieval-Augmented Generation Platforms
+- Business Rule Engines
+- Workflow Platforms
+- Decision Support Systems
+- AI Agent Frameworks
+- Enterprise AI Platforms
+
+The work also established the repository's constitutional visual architecture through governed relationship diagrams and architectural overview models.
+
+---
 
 # Current Focus
 
-Develop the constitutional specification of the Institutional Intelligence Platform through:
+Complete Platform Discovery through Market Landscape Analysis.
 
-- Platform Vision
-- Platform Architecture
-- Platform Positioning
+Following completion of Market Landscape Analysis, transition to Platform Specification.
 
-These artifacts translate the discoveries of Platform Discovery into the enduring constitutional definition of the Platform before domain specialization begins
 ---
 
 # Completed Deliverables
@@ -198,7 +216,6 @@ These artifacts translate the discoveries of Platform Discovery into the endurin
 
 - Architecture Charter
 - Project State
-- Open Architecture Questions Register
 - Product Constitution
 - Product Lexicon
 - Semantic Knowledge Architecture
@@ -209,6 +226,14 @@ These artifacts translate the discoveries of Platform Discovery into the endurin
 - Methodology Reconstruction
 - Independent Validation
 
+## Platform Discovery
+
+- Platform Discovery
+- Platform Vision
+- Platform Architecture
+- Platform Positioning
+- Competitive Positioning
+
 ## Research
 
 - AI-Native Governance Vision
@@ -218,20 +243,20 @@ These artifacts translate the discoveries of Platform Discovery into the endurin
 
 # Active Deliverables
 
-- Platform Vision
-- Platform Architecture
-- Platform Positioning
+- Market Landscape Analysis
 
 ---
 
 # Recent Architectural Decisions
 
 - Institutional Intelligence formally established as a constitutional capability.
-- Institutional Intelligence Platform established as a constitutional artifact.
-- Behavioural Integrity established as the Platform's constitutional objective.
-- Constitutional Operationalization established as the Platform's realization mechanism.
-- Repository Evolution and Platform Learning formally separated.
-- Platform Specification Phase initiated.
+- Behavioural Integrity established as the constitutional objective.
+- Constitutional Operationalization established as the realization mechanism.
+- Institutional Intelligence Platform positioned as the constitutional center of the architecture.
+- Competitive architectural boundaries formally established.
+- Constitutional visual architecture adopted as a first-class architectural artifact.
+- Knowledge, Governance, and AI categories established as complementary capabilities consumed by the Platform.
+- Institutional Operations established as the primary governed downstream consumer of Institutional Intelligence.
 
 ---
 
@@ -249,9 +274,9 @@ Refer to the Open Architecture Questions Register.
 
 # Architectural Risks
 
-No constitutional risks identified.
+No constitutional risks currently identified.
 
-Future methodology evolution shall preserve the constitutional responsibilities, architectural invariants, and governance principles established by the Constitutional Foundation.
+Future evolution shall preserve the constitutional responsibilities, architectural invariants, relationship vocabulary, and governance principles established by the Constitutional Foundation.
 
 ---
 
@@ -260,69 +285,56 @@ Future methodology evolution shall preserve the constitutional responsibilities,
 | Area | Status |
 |------|--------|
 | Constitutional Foundation | Validated |
-| Product Strategy | In Progress |
+| Platform Discovery | Near Completion |
+| Platform Specification | In Progress |
 | Repository Governance | Healthy |
-| Research | Active |
 | Architecture Reviews | Current |
 | Repository Consistency | Healthy |
+| Visual Architecture | Established |
 
 ---
 
 # Immediate Next Steps
 
-1. Complete Platform Vision.
-2. Complete Platform Architecture.
-3. Complete Platform Positioning.
-4. Establish the constitutional specification of the Institutional Intelligence Platform.
-5. Begin Domain Intelligence Platform specialization.
+1. Complete Market Landscape Analysis.
+2. Conclude Platform Discovery.
+3. Continue expanding the Platform Specification through additional constitutional specifications.
+4. Complete the constitutional definition of the Institutional Intelligence Platform.
+5. Progress toward Domain Intelligence Platform specialization.
 
 ---
 
 # Reading Recommendations
 
-Architects joining the repository should read the following artifacts in order:
+Architects joining the repository should read:
 
-## Constitutional Foundations
+## Constitutional Foundation
 
 1. START_HERE.md
-2. docs/foundations/000_Architecture_Charter.md
-3. docs/foundations/001_Project_State.md
-4. docs/foundations/002_Product_Constitution.md
-5. docs/foundations/003_Product_Lexicon.md
-6. docs/foundations/003a_Semantic_Knowledge_Architecture.md
+2. Architecture Charter
+3. Project State
+4. Product Constitution
+5. Product Lexicon
+6. Semantic Knowledge Architecture
 
-## Institutional Intelligence
+## Institutional Intelligence Platform
 
-1. docs/platform_discovery/README.md
-2. docs/platform_discovery/Platform_Discovery.md
+1. Platform Discovery
+2. Platform Vision
+3. Platform Architecture
+4. Platform Positioning
+5. Competitive Positioning
 
 Subsequent reading depends upon the architectural work being undertaken.
 
 ---
 
-# Change Log
-
-Refer to the repository release history and Architecture Assurance Reviews.
-
----
-
 # Future Architecture
 
-The next constitutional artifacts include:
+Completion of Market Landscape Analysis will conclude Platform Discovery.
 
-- Platform Vision
-- Platform Architecture
-- Platform Positioning
+The repository will then continue expanding the Platform Specification by codifying additional validated constitutional discoveries into authoritative architectural specifications, completing the constitutional definition of the Institutional Intelligence Platform and providing the enduring foundation for downstream realization.
 
-These will establish the complete constitutional specification of the Institutional Intelligence Platform.
+Subsequent phases will specialize the Platform into Domain Intelligence Platforms—including Education, Healthcare, Finance, Government, Manufacturing, and other institutional domains—while preserving the constitutional capabilities established by the Institutional Intelligence Platform.
 
-Subsequent phases will specialize the Platform into domain-specific realizations, including:
-
-- Education Intelligence Platform
-- Healthcare Intelligence Platform
-- Financial Intelligence Platform
-- Government Intelligence Platform
-
-Each Domain Intelligence Platform will inherit the constitutional capabilities established by the Institutional Intelligence Platform while extending them with domain-specific knowledge, reasoning, and operational models.
-
-Finally, Domain Products will apply those specialized capabilities to create operational systems that consistently embody an Institution's Constitutional Foundation.
+Domain Products will then realize those capabilities through operational systems that consistently embody an institution's Constitutional Foundation.

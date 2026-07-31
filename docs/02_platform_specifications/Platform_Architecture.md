@@ -36,6 +36,8 @@ The Platform Architecture shall be developed and interpreted in accordance with 
 
 # 5. Platform_Architecture
 
+Platform Architecture is itself the constitutional organization of the Platform's enduring capabilities and responsibilities.
+
 ## 5.1. Architectural Identity
 
 The Institutional Intelligence Platform establishes an enduring constitutional architecture whose identity is defined by its capability-oriented organization, responsibility-driven structure, and independence from implementation technologies and operational realization.
@@ -69,6 +71,8 @@ The Platform establishes the enduring capability to continuously improve institu
 The Platform establishes the enduring capability to capture, preserve, and apply institutional intelligence across multiple operational realizations. This capability enables knowledge and learning acquired within one realization to inform others, strengthening institutional consistency while preserving constitutional integrity.
 
 ## 5.3 Architectural Responsibilities
+
+The Platform's constitutional capabilities define the enduring capabilities that constitute the Platform's architecture. Its architectural responsibilities define the enduring constitutional responsibilities that the Platform owns and for which it remains accountable. While closely related, capabilities describe what the Platform is constitutionally capable of realizing, whereas responsibilities define the constitutional obligations that belong exclusively to the Platform.
 
 The Institutional Intelligence Platform owns the enduring architectural responsibility for realizing Institutional Intelligence by operationalizing an institution's Constitutional Foundation as governed operational behaviour. These responsibilities define the constitutional scope of the Platform and collectively ensure that institutional knowledge is consistently realized while preserving behavioural integrity, governance, and institutional continuity.
 
